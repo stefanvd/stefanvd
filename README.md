@@ -3,7 +3,7 @@
 
 - ✨ Crafted [Stefan vd](https://wwww.stefanvd.net) website
 - 🔭 I’m currently working on [Turn Off the Lights](https://github.com/turnoffthelights) Open-Source project
-- 🌍 I'm mostly active within the **Google Chrome** developers and users community
+- 🌍 I'm mostly active within the **Google Chrome** community for developers and users
 - 📫 How to reach me: [twitter.com/stefanvd](https://twitter.com/stefanvd)
 
 #### Languages and Tools:
