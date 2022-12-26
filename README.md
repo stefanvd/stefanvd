@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Stefan Van Damme
 
-
-![Sponsor](https://img.shields.io/static/v1?label=GitHub-Sponsor&message=%E2%9D%A4&logo=GitHub&color=blue&style=for-the-badge&link=https://github.com/sponsors/stefanvd)
-![Sponsor](https://img.shields.io/static/v1?label=Stefan-vd-Donate-website&20te&message=%E2%9D%A4&logo=paypal&color=blue&style=for-the-badge&link=https://www.stefanvd.net/donate)
+[![Sponsor](https://img.shields.io/static/v1?label=GitHub-Sponsor&message=%E2%9D%A4&logo=GitHub&color=blue&style=for-the-badge)](https://github.com/sponsors/stefanvd)
+[![Sponsor](https://img.shields.io/static/v1?label=Stefan-vd-Donate-website&message=%E2%9D%A4&logo=PayPal&color=blue&style=for-the-badge)](https://www.stefanvd.net/donate/)
 
 #### A passionate frontend developer from Antwerp, Belgium
 
