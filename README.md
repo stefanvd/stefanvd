@@ -19,3 +19,4 @@
 - [Easily Creates a Google Chrome Extension Manifest V3 for Beginners (from scratch)](https://www.stefanvd.net/blog/2022/11/14/easily-creates-a-google-chrome-extension-manifest-v3-for-beginners-from-scratch/)
 - [10 important Code Notes you Should Know When Migrating to Manifest V3](https://www.stefanvd.net/blog/2022/11/07/10-important-code-notes-you-should-know-when-migrating-to-manifest-v3/)
 - [New Chrome Extension Development Template with Manifest V3 Support for Beginner Developers](https://www.stefanvd.net/blog/2022/10/05/chrome-extension-development-template-with-manifest-v3-for-beginner-developer/)
+- [7 important Manifest V3 development questions that Google Chrome did not answer you](https://www.stefanvd.net/blog/2023/01/09/7-important-manifest-v3-development-questions-that-google-chrome-did-not-answer-you/)
