@@ -21,3 +21,4 @@
 - [New Chrome Extension Development Template with Manifest V3 Support for Beginner Developers](https://www.stefanvd.net/blog/2022/10/05/chrome-extension-development-template-with-manifest-v3-for-beginner-developer/)
 - [7 important Manifest V3 development questions that Google Chrome did not answer you](https://www.stefanvd.net/blog/2023/01/09/7-important-manifest-v3-development-questions-that-google-chrome-did-not-answer-you/)
 - [From 0 to Hero: How to Create a Mobile Chrome Extension (Android and iOS)](https://www.stefanvd.net/blog/2023/02/28/from-0-to-hero-how-to-create-a-mobile-chrome-extension-android-and-ios/)
+- [How to Report Chromium Bug and Find Fixed Versions: #1 Step-by-Step Guide](https://www.stefanvd.net/blog/2023/03/23/how-to-report-chromium-bug/)
