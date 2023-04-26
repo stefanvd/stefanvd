@@ -22,5 +22,4 @@
 - [7 important Manifest V3 development questions that Google Chrome did not answer you](https://www.stefanvd.net/blog/2023/01/09/7-important-manifest-v3-development-questions-that-google-chrome-did-not-answer-you/)
 - [From 0 to Hero: How to Create a Mobile Chrome Extension (Android and iOS)](https://www.stefanvd.net/blog/2023/02/28/from-0-to-hero-how-to-create-a-mobile-chrome-extension-android-and-ios/)
 - [How to Report Chromium Bug and Find Fixed Versions: #1 Step-by-Step Guide](https://www.stefanvd.net/blog/2023/03/23/how-to-report-chromium-bug/)
-- [How to Add Internationalization (i18n) to Your Chrome Extension: A Step-by-Step Guide
-]([https://www.stefanvd.net/blog/2023/03/23/how-to-report-chromium-bug/](https://www.stefanvd.net/blog/2023/04/24/how-to-add-internationalization-i18n-chrome-extension/))
+- [How to Add Internationalization (i18n) to Your Chrome Extension: A Step-by-Step Guide](https://www.stefanvd.net/blog/2023/04/24/how-to-add-internationalization-i18n-chrome-extension/)
