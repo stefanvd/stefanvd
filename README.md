@@ -23,3 +23,4 @@
 - [From 0 to Hero: How to Create a Mobile Chrome Extension (Android and iOS)](https://www.stefanvd.net/blog/2023/02/28/from-0-to-hero-how-to-create-a-mobile-chrome-extension-android-and-ios/)
 - [How to Report Chromium Bug and Find Fixed Versions: #1 Step-by-Step Guide](https://www.stefanvd.net/blog/2023/03/23/how-to-report-chromium-bug/)
 - [How to Add Internationalization (i18n) to Your Chrome Extension: A Step-by-Step Guide](https://www.stefanvd.net/blog/2023/04/24/how-to-add-internationalization-i18n-chrome-extension/)
+- [How to Create Your First New Sidebar Chrome Extension MV3 for Beginner Developer](https://www.stefanvd.net/blog/2023/05/06/how-to-create-a-sidebar-chrome-extension-mv3/)
