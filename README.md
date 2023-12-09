@@ -15,6 +15,7 @@
 
 
 #### 🔰 Recent Articles about Chrome extension
+Season 1: 2022 - 2023
 - [5 Important Accessibility Options All Chrome Extension Manifest V3 Developers Should Be Using](https://www.stefanvd.net/blog/2022/12/26/5-important-accessibility-options-all-chrome-extension-manifest-v3-developers-should-be-using/)
 - [Easily Creates a Google Chrome Extension Manifest V3 for Beginners (from scratch)](https://www.stefanvd.net/blog/2022/11/14/easily-creates-a-google-chrome-extension-manifest-v3-for-beginners-from-scratch/)
 - [10 important Code Notes you Should Know When Migrating to Manifest V3](https://www.stefanvd.net/blog/2022/11/07/10-important-code-notes-you-should-know-when-migrating-to-manifest-v3/)
@@ -25,3 +26,6 @@
 - [How to Add Internationalization (i18n) to Your Chrome Extension: A Step-by-Step Guide](https://www.stefanvd.net/blog/2023/04/24/how-to-add-internationalization-i18n-chrome-extension/)
 - [How to Create Your First New Sidebar Chrome Extension MV3 for Beginner Developer](https://www.stefanvd.net/blog/2023/05/06/how-to-create-a-sidebar-chrome-extension-mv3/)
 - [Protecting Your Chrome Extension: Safeguard Your Code and Brand with Powerful Strategies](https://www.stefanvd.net/blog/2023/06/25/safeguard-your-code-and-brand/)
+  
+Season 2: 2023 - 2024
+- [Firefox Manifest V3 Extension – A Developer’s Perspective](https://www.stefanvd.net/blog/2023/11/30/firefox-manifest-v3-extension-a-developer-perspective/)
