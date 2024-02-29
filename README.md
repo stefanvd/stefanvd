@@ -31,3 +31,4 @@ Season 2: 2023 - 2024
 - [Firefox Manifest V3 Extension – A Developer’s Perspective](https://www.stefanvd.net/blog/2023/11/30/firefox-manifest-v3-extension-a-developer-perspective/)
 - [How to create your first Safari Extension Manifest V3?](https://www.stefanvd.net/blog/2023/12/27/how-to-create-your-first-safari-extension-manifest-v3/)
 - [Build a Powerful Web Browser Side Panel Browser Extension with Manifest V3](https://www.stefanvd.net/blog/2024/01/30/build-web-browser-side-panel/)
+- -[How to get a Powerful Safari Extension for Apple Vision Pro in 3 steps?](https://www.stefanvd.net/blog/2024/02/29/how-to-get-a-safari-extension-for-apple-vision-pro/)
