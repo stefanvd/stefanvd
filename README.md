@@ -16,11 +16,11 @@
 
 #### 🔰 Recent Articles about Chrome extension
 Season 1: 2022 - 2023
-- [5 Important Accessibility Options All Chrome Extension Manifest V3 Developers Should Be Using](https://www.stefanvd.net/blog/2022/12/26/5-important-accessibility-options-all-chrome-extension-manifest-v3-developers-should-be-using/)
-- [Easily Creates a Google Chrome Extension Manifest V3 for Beginners (from scratch)](https://www.stefanvd.net/blog/2022/11/14/easily-creates-a-google-chrome-extension-manifest-v3-for-beginners-from-scratch/)
+- [5 Important Accessibility Options All Chrome Extension Manifest V3 Developers Should Be Using](https://www.stefanvd.net/blog/2022/12/26/5-important-accessibility-options-for-chrome-extension-manifest-v3/)
+- [Easily Creates a Google Chrome Extension Manifest V3 for Beginners (from scratch)](https://www.stefanvd.net/blog/2022/11/14/creates-a-google-chrome-extension-manifest-v3-for-beginners-from-scratch/)
 - [10 important Code Notes you Should Know When Migrating to Manifest V3](https://www.stefanvd.net/blog/2022/11/07/10-important-code-notes-you-should-know-when-migrating-to-manifest-v3/)
-- [New Chrome Extension Development Template with Manifest V3 Support for Beginner Developers](https://www.stefanvd.net/blog/2022/10/05/chrome-extension-development-template-with-manifest-v3-for-beginner-developer/)
-- [7 important Manifest V3 development questions that Google Chrome did not answer you](https://www.stefanvd.net/blog/2023/01/09/7-important-manifest-v3-development-questions-that-google-chrome-did-not-answer-you/)
+- [New Chrome Extension Development Template with Manifest V3 Support for Beginner Developers](https://www.stefanvd.net/blog/2022/10/05/chrome-extension-development-template-manifest-v3-for-beginner-developer/)
+- [7 important Manifest V3 development questions that Google Chrome did not answer you](https://www.stefanvd.net/blog/2023/01/09/7-important-manifest-v3-development-questions/)
 - [From 0 to Hero: How to Create a Mobile Chrome Extension (Android and iOS)](https://www.stefanvd.net/blog/2023/02/28/from-0-to-hero-how-to-create-a-mobile-chrome-extension-android-and-ios/)
 - [How to Report Chromium Bug and Find Fixed Versions: #1 Step-by-Step Guide](https://www.stefanvd.net/blog/2023/03/23/how-to-report-chromium-bug/)
 - [How to Add Internationalization (i18n) to Your Chrome Extension: A Step-by-Step Guide](https://www.stefanvd.net/blog/2023/04/24/how-to-add-internationalization-i18n-chrome-extension/)
@@ -32,3 +32,4 @@ Season 2: 2023 - 2024
 - [How to create your first Safari Extension Manifest V3?](https://www.stefanvd.net/blog/2023/12/27/how-to-create-your-first-safari-extension-manifest-v3/)
 - [Build a Powerful Web Browser Side Panel Browser Extension with Manifest V3](https://www.stefanvd.net/blog/2024/01/30/build-web-browser-side-panel/)
 - [How to get a Powerful Safari Extension for Apple Vision Pro in 3 steps?](https://www.stefanvd.net/blog/2024/02/29/how-to-get-a-safari-extension-for-apple-vision-pro/)
+- [12 Best Ways to Monetizing Your Chrome Extension: Strategies for Generating Revenue](https://www.stefanvd.net/blog/2024/03/31/monetizing-your-chrome-extension/)
