@@ -32,3 +32,4 @@ Season 2: 2023 - 2024
 - [Build a Powerful Web Browser Side Panel Browser Extension with Manifest V3](https://www.stefanvd.net/blog/2024/01/30/build-web-browser-side-panel/)
 - [How to get a Powerful Safari Extension for Apple Vision Pro in 3 steps?](https://www.stefanvd.net/blog/2024/02/29/how-to-get-a-safari-extension-for-apple-vision-pro/)
 - [12 Best Ways to Monetizing Your Chrome Extension: Revenue Strategies](https://www.stefanvd.net/blog/2024/03/31/monetizing-your-chrome-extension/)
+- [How to Get Your Chrome Extension Featured on the Chrome Web Store in 3 easy Steps?](https://www.stefanvd.net/blog/2024/04/17/how-to-get-a-chrome-extension-featured/)
