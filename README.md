@@ -36,3 +36,4 @@ Season 2: 2023 - 2024
 - [How to downgrade a Chrome extension in 3 easy steps?](https://www.stefanvd.net/blog/2024/05/21/how-to-downgrade-a-chrome-extension/)
 - [Enhancing User Experience in Chrome Extensions: The 5 Best Practices](https://www.stefanvd.net/blog/2024/06/29/enhancing-user-experience-in-chrome-extensions/)
 - [A Comprehensive Guide to Extension Screenshots for 5 Different Stores](https://www.stefanvd.net/blog/2024/07/27/browser-extension-screenshots/)
+- [The Future of Chrome Extensions: 3 Epic Trends and Innovations to Watch](https://www.stefanvd.net/blog/2024/08/12/the-future-of-chrome-extensions/)
