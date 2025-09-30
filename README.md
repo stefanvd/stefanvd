@@ -37,3 +37,10 @@ Season 2: 2023 - 2024
 - [Enhancing User Experience in Chrome Extensions: The 5 Best Practices](https://www.stefanvd.net/blog/2024/06/29/enhancing-user-experience-in-chrome-extensions/)
 - [A Comprehensive Guide to Extension Screenshots for 5 Different Stores](https://www.stefanvd.net/blog/2024/07/27/browser-extension-screenshots/)
 - [The Future of Chrome Extensions: 3 Epic Trends and Innovations to Watch](https://www.stefanvd.net/blog/2024/08/12/the-future-of-chrome-extensions/)
+
+| | |
+|-----:|---------------|
+|<img src="https://developers.google.com/static/profile/badges/community/gde/badge.svg" width="100" height="100"/>|Google Developer Experts member since 2023|
+|<img src="https://developers.google.com/static/profile/badges/community/gde/specialization/web-technologies/badge.svg" width="100" height="100"/>|Web Technologies Google Developer Expert|
+
+[My Google Developer Expert Profile](https://g.dev/stefanvd)
