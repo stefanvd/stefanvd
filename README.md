@@ -38,6 +38,9 @@ Season 2: 2023 - 2024
 - [A Comprehensive Guide to Extension Screenshots for 5 Different Stores](https://www.stefanvd.net/blog/2024/07/27/browser-extension-screenshots/)
 - [The Future of Chrome Extensions: 3 Epic Trends and Innovations to Watch](https://www.stefanvd.net/blog/2024/08/12/the-future-of-chrome-extensions/)
 
+Season 3: 2026
+- [Firefox for Android: 23 Essential Steps to Build and Test Extensions Like a Pro](https://www.stefanvd.net/blog/2026/01/12/developing-and-testing-extension-on-firefox-for-android/)
+
 | | |
 |-----:|---------------|
 |<img src="https://developers.google.com/static/profile/badges/community/gde/badge.svg" width="100" height="100"/>|Google Developer Experts member since 2023|
