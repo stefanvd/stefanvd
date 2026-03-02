@@ -41,6 +41,7 @@ Season 2: 2023 - 2024
 Season 3: 2026
 - [Firefox for Android: 23 Essential Steps to Build and Test Extensions Like a Pro](https://www.stefanvd.net/blog/2026/01/12/developing-and-testing-extension-on-firefox-for-android/)
 - [How to load and debug Safari Extensions without Xcode](https://www.stefanvd.net/blog/2026/02/01/how-to-load-and-debug-safari-extensions-without-xcode/)
+- [4 Reasons Video Education Improves Browser Extension Adoption and Retention](https://www.stefanvd.net/blog/2026/03/02/4-reasons-video-education-improves-browser-extension-adoption-and-retention/)
 
 | | |
 |-----:|---------------|
