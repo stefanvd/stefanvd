@@ -2,7 +2,7 @@
 
 [![Sponsor](https://img.shields.io/static/v1?label=Stefan-vd-Donate-website&message=%E2%9D%A4&logo=PayPal&color=blue&style=for-the-badge)](https://www.stefanvd.net/donate/)
 
-#### A passionate frontend developer from Antwerp, Belgium
+#### A passionate web developer from Antwerp, Belgium
 
 - ✨ Crafted [Stefan vd](https://www.stefanvd.net) website
 - 🔭 I’m currently working on [Turn Off the Lights](https://github.com/turnoffthelights) Open-Source project
