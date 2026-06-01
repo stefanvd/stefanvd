@@ -47,6 +47,7 @@ Season 3: 2026
 - [4 Reasons Video Education Improves Browser Extension Adoption and Retention](https://www.stefanvd.net/blog/2026/03/02/4-reasons-video-education-improves-browser-extension-adoption-and-retention/)
 - [3 Common Browser Extension Store Mistakes That Cause Rejection (And How to Fix Them)](https://www.stefanvd.net/blog/2026/04/02/browser-extension-store-mistakes/)
 - [3 Proven Ways to Dramatically Reduce Memory & CPU Usage in Chrome Extensions](https://www.stefanvd.net/blog/2026/05/01/how-to-reduce-memory-cpu-usage/)
+- [Ask for Feedback Always: How to Make Your Browser Extension the Best](https://www.stefanvd.net/blog/2026/06/01/ask-for-feedback-always/)
 
 | | |
 |-----:|---------------|
