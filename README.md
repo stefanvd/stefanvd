@@ -49,6 +49,7 @@ Season 3: 2026
 - [3 Proven Ways to Dramatically Reduce Memory & CPU Usage in Chrome Extensions](https://www.stefanvd.net/blog/2026/05/01/how-to-reduce-memory-cpu-usage/)
 - [Ask for Feedback Always: How to Make Your Browser Extension the Best](https://www.stefanvd.net/blog/2026/06/01/ask-for-feedback-always/)
 - [How to Use Modern Web Guidance in Your Chrome Extension: 1 Essential Tasks You Must Do](https://www.stefanvd.net/blog/2026/06/14/how-to-use-modern-web-guidance/)
+- [My Developer Perspective on AI-Generated Safari Extensions in macOS 27 and iOS 27](https://www.stefanvd.net/blog/2026/07/01/ai-generated-safari-extensions/)
 
 | | |
 |-----:|---------------|
