@@ -50,6 +50,7 @@ Season 3: 2026
 - [Ask for Feedback Always: How to Make Your Browser Extension the Best](https://www.stefanvd.net/blog/2026/06/01/ask-for-feedback-always/)
 - [How to Use Modern Web Guidance in Your Chrome Extension: 1 Essential Tasks You Must Do](https://www.stefanvd.net/blog/2026/06/14/how-to-use-modern-web-guidance/)
 - [My Developer Perspective on AI-Generated Safari Extensions in macOS 27 and iOS 27](https://www.stefanvd.net/blog/2026/07/01/ai-generated-safari-extensions/)
+- [7 Proven Ways to Get More Users for Your Chrome Extension (What Actually Works)](https://www.stefanvd.net/blog/2026/08/01/7-proven-ways-to-get-more-users/)
 
 | | |
 |-----:|---------------|
